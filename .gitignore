@@ -1,0 +1,14 @@
+# Ignorar el dataset original pesado (175 MB)
+data/spotify_data.csv
+
+# Archivos temporales de Python y Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Docker
+.dockerignore
