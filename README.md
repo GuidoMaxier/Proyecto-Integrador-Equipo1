@@ -54,4 +54,11 @@ Se utiliza una muestra aleatoria representativa de **100,000 registros** (`spoti
 
 ## Integrantes del Equipo N° 1
 
-_(Espacio para nombres y perfiles de LinkedIn)_
+1. **Alvarado, Marcelo Daniel** - DNI: 39.781.697
+2. **Biazutti, Jorge Luciano** - DNI: 23.584.366
+3. **Casasola, Hernán Guido Gustavo** - DNI: 29.976.458
+4. **Gonza, Gabriela Guadalupe** - DNI: 31.173.807
+5. **Lera, Aníbal Iván** - DNI: 18.229.630
+
+**Docente:** Amalia Guaymás Canavire  
+**Fecha:** 2026
