@@ -11,9 +11,7 @@
 ## Integrantes del Equipo N° 1
 
 - **Alvarado, Marcelo Daniel**
-- **Biazutti, Jorge Luciano**
 - **Casasola, Hernán Guido Gustavo**
-- **Gonza, Gabriela Guadalupe**
 - **Lera, Aníbal Iván**
 
 ---
